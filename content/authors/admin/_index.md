@@ -1,6 +1,4 @@
 ---
-design:
-  columns: '2'
 role: Professor of Hydrology & Hydraulics
 avatar_filename: avatar.png
 bio: My research interests include Hydraulics, Hydrology, Stochastic processes
