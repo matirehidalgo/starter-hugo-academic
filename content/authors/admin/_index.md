@@ -53,6 +53,8 @@ superuser: true
 highlight_name: false
 title: Alonso Pizarro
 email: alonsopizarrov@gmail.com
+design
+  columns: '2'
 ---
 Alonso Pizarro is a professor of hydraulics and hydrology at Diego Portales University. His research interests include hydrology, hydraulics, sediment transport, bridge scour, flood prediction, extreme flood events, stochastic processes in hydrology, environmental monitoring using Unmanned Aerial Systems (UASs), and remote sensing applications for fluvial monitoring. Alonso utilises advanced surveying and flow measurement techniques and laboratory experiments. He is proficient in advanced programming languages (Matlab and Python) and GIS software (QGIS), which he uses to manipulate and analyse complex datasets, regularly publishing research articles in leading international journals. Alonso has recently adopted open science practices, making available data, codes, and analyses.
 
